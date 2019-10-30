@@ -1,7 +1,13 @@
+p {
+  font-family: 'Tangerine', cursive;
+  font-size: 20px;
+  color: black;
+}
+
 body {
     color: black;
     font-family: 'Tangerine', cursive;
-    font-size: 17px;
+    font-size: 20px;
     font-weight: lighter;
     background-color: black
 }
@@ -12,11 +18,6 @@ h1 {
     font-weight: 900;
 }
 
-p {
-  font-family: 'Tangerine', cursive;
-  font-size: 20px
-  color: black;
-}
 
 a {
     font-family: 'Roboto', sans-serif;
